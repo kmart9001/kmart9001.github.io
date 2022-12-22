@@ -1,3 +1,3 @@
 # kmart9001.github.io
- A big ol test
-  Yep.  A. Test.
+Click here for the twine "game" i made a few years ago!
+[a link](https://github.com/kmart9001/kmart9001.github.io/Hallway Game.html)
